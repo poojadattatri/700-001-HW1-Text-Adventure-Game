@@ -1,0 +1,36 @@
+COMMANDS IN ORDER TO WIN
+
+get cloak
+go out
+get hat
+look inside hat
+pull out shiny object
+go west
+wear cloak
+go up
+remove cloak
+talk to myrtle
+go in
+talk to ginny
+talk to riddle
+get diary
+read diary
+kill basilisk with sword
+
+ALL COMMANDS
+
+wear cloak
+remove cloak
+read diary
+destroy diary
+destroy diary with fang
+look inside hat
+pull out shiny object
+pull out sword
+kill basilisk
+kill basilisk with sword
+look at the basilisk's eye
+talk to snape
+talk to riddle
+talk to ginny
+talk to myrtle
